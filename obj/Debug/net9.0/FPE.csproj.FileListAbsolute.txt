@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\FPE\bin\Debug\net9.0\FPE.exe
+C:\Users\Admin\Desktop\FPE\bin\Debug\net9.0\FPE.deps.json
+C:\Users\Admin\Desktop\FPE\bin\Debug\net9.0\FPE.runtimeconfig.json
+C:\Users\Admin\Desktop\FPE\bin\Debug\net9.0\FPE.dll
+C:\Users\Admin\Desktop\FPE\bin\Debug\net9.0\FPE.pdb
+C:\Users\Admin\Desktop\FPE\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.csproj.Up2Date
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.dll
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\refint\FPE.dll
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.pdb
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\FPE.genruntimeconfig.cache
+C:\Users\Admin\Desktop\FPE\obj\Debug\net9.0\ref\FPE.dll
